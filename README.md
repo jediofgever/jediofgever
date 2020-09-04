@@ -8,5 +8,5 @@ Here is quick start:
 * 🌱 I’m currently learning to advance my software developmental skills
 * 👯 I’m looking to collaborate on ROS based projects, hit me up if you find my profile interesting
 * 💬 Ask me about robots
-* 📫 How to reach me: fetullahatas1@gmail.com
+* 📫 How to reach me: fetulahatas1@gmail.com
 
