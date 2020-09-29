@@ -12,4 +12,4 @@ Here is quick start:
 
 ![jediofgever's github stats](https://github-readme-stats.vercel.app/api?username=jediofgever&show_icons=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jediofgever)](https://github.com/jediofgever/github-readme-stats)
