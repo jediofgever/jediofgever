@@ -10,6 +10,5 @@ Here is quick start:
 * 💬 Ask me about robots
 * 📫 How to reach me: fetulahatas1@gmail.com
 
-![jediofgever's github stats](https://github-readme-stats.vercel.app/api?username=jediofgever&show_icons=true)
-
+![jediofgever's github stats](https://github-readme-stats.vercel.app/api?username=jediofgever&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jediofgever)](https://github.com/jediofgever/github-readme-stats)
