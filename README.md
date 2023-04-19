@@ -8,11 +8,10 @@
 Here is quick start:
 * 📫 Available for Mobile Robot Navigation, Motion Planning, Control, and ROS2 consultation offers.
 * 🔭 I’m currently working on robotics and 3D navigation
-* 💬 Ask me about robots
-* 📫 How to reach me: fetulahatas1@gmail.com
+* 📫 How to reach me at : fetulahatas1@gmail.com
 
-![jediofgever's github stats](https://github-readme-stats.vercel.app/api?username=jediofgever&show_icons=true) 
+<!-- ![jediofgever's github stats](https://github-readme-stats.vercel.app/api?username=jediofgever&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jediofgever)](https://github.com/jediofgever/github-readme-stats)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCl14FP8QsFD78I82dapZPcA?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCl14FP8QsFD78I82dapZPcA?style=social) -->
 
 <!--![snake svg](https://github.com/jediofgever/jediofgever/blob/output/github-contribution-grid-snake.svg) -->
