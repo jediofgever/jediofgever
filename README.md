@@ -5,10 +5,9 @@
  * 🌱 I’m currently learning to advance my practical deep learning skills
 * 👯 I’m looking to collaborate on ROS based projects, hit me up if you find my profile interesting
 -->
-Here is quick start:
 * 📫 Available for Mobile Robot Navigation, Motion Planning, Control, and ROS2 consultation offers.
-* 🔭 I’m currently working on robotics and 3D navigation
-* 📫 How to reach me at : fetulahatas1@gmail.com
+* 🔭 I’m currently working on 3D navigation
+* 📫 Reach me at : fetulahatas1@gmail.com
 
 <!-- ![jediofgever's github stats](https://github-readme-stats.vercel.app/api?username=jediofgever&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jediofgever)](https://github.com/jediofgever/github-readme-stats)
