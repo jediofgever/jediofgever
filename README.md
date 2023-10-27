@@ -2,10 +2,6 @@
 
 <!--
 **jediofgever/jediofgever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- * 🌱 I’m currently learning to advance my practical deep learning skills
-* 👯 I’m looking to collaborate on ROS based projects, hit me up if you find my profile interesting
--->
-* 📫 Available for Mobile Robot Navigation, Motion Planning, Control, and ROS2 consultation offers.
 * 🔭 I’m currently working on 3D navigation
 * 📫 Reach me at : fetulahatas1@gmail.com
 
